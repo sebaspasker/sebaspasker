@@ -4,6 +4,14 @@ Software Engineer | Linux & DevOps | WebGIS Enthusiast
 
 ---
 
+## Contact
+
+- 💼 LinkedIn: [Sebastian Pasker](https://www.linkedin.com/in/sebaspasker/)  
+- ✉️ Email: sebaspasker@gmail.com
+- 🗂️ Portfolio: [sebaspasker.github.io](https://www.sebaspasker.github.io)
+
+---
+
 ## Summary
 
 I build solutions that automate infrastructure, improve reliability, and simplify complexity. My strengths are in Linux environments, scripting, and integrating tools to solve real problems efficiently.
@@ -50,13 +58,5 @@ I build solutions that automate infrastructure, improve reliability, and simplif
 - [Deepfish2 (WebGIS & Biomass Estimation)](https://deepfish.ua.es/) — Research project building a WebGIS for biomass estimation and fish species recognition.  
 - [BJJ Guide Fabric](https://github.com/sebaspasker/bjj_instructional_scripting) — CLI tool that converts instructional videos into structured study guides with diagrams.  
 - [ROL Game (proyecto_SD)](https://github.com/sebaspasker/proyecto_SD) — Event-driven architecture project focusing on modularity and data integrity.  
-
----
-
-## Contact
-
-- 🧑‍💻 GitHub: [sebaspasker](https://github.com/sebaspasker)  
-- 💼 LinkedIn: [Sebastian Pasker](https://www.linkedin.com/in/sebaspasker/)  
-- ✉️ Email: sebaspasker@gmail.com
 
 ---

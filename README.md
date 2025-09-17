@@ -8,7 +8,7 @@ Software Engineer | Linux & DevOps | WebGIS Enthusiast
 
 - 💼 LinkedIn: [Sebastian Pasker](https://www.linkedin.com/in/sebaspasker/)  
 - ✉️ Email: sebaspasker@gmail.com
-- 🗂️ Portfolio: [sebaspasker.github.io](https://www.sebaspasker.github.io)
+- 🗂️ Portfolio: [sebaspasker.github.io](https://sebaspasker.github.io)
 
 ---
 

@@ -36,15 +36,15 @@ I build solutions that automate infrastructure, improve reliability, and simplif
 - Full stack work: backend (Django, Node.js), frontend and mapping (Mapbox).  
 - Developed real-time visualizations, collaborating with marine biologists.  
 
-**Intern** — *NTT Data*  
-*Mar 2024 – Dec 2024*  
+**Developer** — *NTT Data*  
+*Jan 2024 – Dec 2024*  
 
 - Contributed to a SaaS POS platform for major clients.  
 - Worked on both front-end and back-end, plus testing & deployments.  
 - Ensured code quality in a team environment (Jira, version control, peer review).  
 
 **Intern Technical / Support** — *Tech4Diet*  
-*Aug 2021 – Dec 2021*  
+*Feb 2021 – Jun 2021*  
 
 - Administered Linux servers, automated backups.  
 - Used scripting (Bash / PowerShell), plus tools like rsync, SSH, cron.  

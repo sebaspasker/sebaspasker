@@ -37,7 +37,7 @@ I build solutions that automate infrastructure, improve reliability, and simplif
 - Developed real-time visualizations, collaborating with marine biologists.  
 
 **Developer** — *NTT Data*  
-*May 2024 – Oct 2024*  
+*Jan 2024 – Dec 2024*  
 
 - Contributed to a SaaS POS platform for major clients.  
 - Worked on both front-end and back-end, plus testing & deployments.  
